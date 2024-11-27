@@ -1,0 +1,13 @@
+#+TITLE:GWIDE : Gerbil Web IDE
+
+I'm a veteran web developer and gerbil user. The twain shall meet!
+
+* The Gerbil Subtree
+
+For various reasons we currently have a gerbil subtree. Essentially I
+figured I'll need a branch and this is a good place to store it.
+
+#+begin_src sh
+  git subtree add --prefix gerbil \
+      git@github.com:mighty-gerbils/gerbil.git master --squash
+#+end_src

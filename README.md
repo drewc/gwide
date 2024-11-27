@@ -1,2 +1,0 @@
-# gwide
-Gerbil Web IDE
